@@ -1,0 +1,5 @@
+main.spec
+build/
+dist/
+.vscode/
+rekordbox-track-id/
